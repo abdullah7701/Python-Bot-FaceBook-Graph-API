@@ -1,7 +1,7 @@
 Facebook Group Data Scraper
 This Python script utilizes the Facebook Graph API to scrape data from a specified Facebook group. It retrieves the group name, posts, comments on the posts, and relevant information such as the number of comments, number of likes, and usernames associated with each post and comment. The scraped data is then stored in a CSV file for further analysis or storage.
 
-/////////////////////////////Table of Contents
+Table of Contents
 Prerequisites
 Installation
 Usage
@@ -42,6 +42,3 @@ You can obtain the app_id and app_secret by creating a Facebook application and 
 
 License
 This project is licensed under the MIT License.
-
-contact:
-abdullahkha7701@gmail.com
